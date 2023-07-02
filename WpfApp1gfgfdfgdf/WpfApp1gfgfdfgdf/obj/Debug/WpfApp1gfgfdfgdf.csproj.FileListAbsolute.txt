@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\bin\Debug\WpfApp1gfgfdfgdf.exe.config
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\bin\Debug\WpfApp1gfgfdfgdf.exe
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\bin\Debug\WpfApp1gfgfdfgdf.pdb
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf_MarkupCompile.cache
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf_MarkupCompile.lref
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.g.resources
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.Properties.Resources.resources
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.exe
+C:\Users\User\source\repos\WpfApp1gfgfdfgdf\WpfApp1gfgfdfgdf\obj\Debug\WpfApp1gfgfdfgdf.pdb
